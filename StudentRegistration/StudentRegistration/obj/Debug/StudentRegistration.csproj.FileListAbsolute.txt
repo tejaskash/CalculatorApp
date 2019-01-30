@@ -1,0 +1,10 @@
+C:\Users\kashi\Documents\DBS Lab\StudentRegistration\StudentRegistration\bin\Debug\StudentRegistration.exe.config
+C:\Users\kashi\Documents\DBS Lab\StudentRegistration\StudentRegistration\bin\Debug\StudentRegistration.exe
+C:\Users\kashi\Documents\DBS Lab\StudentRegistration\StudentRegistration\bin\Debug\StudentRegistration.pdb
+C:\Users\kashi\Documents\DBS Lab\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.csprojAssemblyReference.cache
+C:\Users\kashi\Documents\DBS Lab\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.Form1.resources
+C:\Users\kashi\Documents\DBS Lab\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.Properties.Resources.resources
+C:\Users\kashi\Documents\DBS Lab\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.csproj.GenerateResource.cache
+C:\Users\kashi\Documents\DBS Lab\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.csproj.CoreCompileInputs.cache
+C:\Users\kashi\Documents\DBS Lab\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.exe
+C:\Users\kashi\Documents\DBS Lab\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.pdb
