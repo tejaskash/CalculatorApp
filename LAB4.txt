@@ -1,0 +1,20 @@
+select count(distinct Owns.driverid)
+from accident natural join participated,owns
+where participated.regno=owns.regno and (extract(year from accd_date)=2018);
+
+///////UPDATE OWNS SET DRIVERID='DHL1234' WHERE REGNO='170611B';
+
+SELECT count(DISTINCT REPORT_NUMBER)
+FROM PARTICIPATED NATURAL JOIN CAR
+WHERE MODEL='Honda City';
+
+select NAME as OWNER_NAME, count(REPORT_NUMBER),sum(DAMAGE_AMOUNT)
+from PERSON natural join OWNS JOIN PARTICIPATED USING (REGNO)
+group by NAME
+ORDER BY SUM(DAMAGE_AMOUNT) DESC;
+
+select driverid,name from owns natural join person where driverid in
+(select driverid from participated group by driverid having count(report_number)>=2);
+
+select driverid, name from owns natural join person where driverid not in (select driverid from participated);
+
