@@ -1,0 +1,13 @@
+D:\170911096\LAB8\Connectivity\Connectivity\bin\Debug\Connectivity.exe.config
+D:\170911096\LAB8\Connectivity\Connectivity\bin\Debug\Connectivity.exe
+D:\170911096\LAB8\Connectivity\Connectivity\bin\Debug\Connectivity.pdb
+D:\170911096\LAB8\Connectivity\Connectivity\bin\Debug\Oracle.DataAccess.dll
+D:\170911096\LAB8\Connectivity\Connectivity\obj\Debug\Connectivity.csprojResolveAssemblyReference.cache
+D:\170911096\LAB8\Connectivity\Connectivity\obj\Debug\Connectivity.DriverRegistration.resources
+D:\170911096\LAB8\Connectivity\Connectivity\obj\Debug\Connectivity.Properties.Resources.resources
+D:\170911096\LAB8\Connectivity\Connectivity\obj\Debug\Connectivity.csproj.GenerateResource.Cache
+D:\170911096\LAB8\Connectivity\Connectivity\obj\Debug\Connectivity.exe
+D:\170911096\LAB8\Connectivity\Connectivity\obj\Debug\Connectivity.pdb
+D:\170911096\LAB8\Connectivity\Connectivity\obj\Debug\Connectivity.DeletePage.resources
+D:\170911096\LAB8\Connectivity\Connectivity\obj\Debug\Connectivity.SelectPage.resources
+D:\170911096\LAB8\Connectivity\Connectivity\obj\Debug\Connectivity.UpdatePage.resources
